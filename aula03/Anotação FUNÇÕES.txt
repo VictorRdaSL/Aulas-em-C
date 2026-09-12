@@ -1,0 +1,8 @@
+ANOTAÇÕES
+
+FUNÇÕES: São recursos utilizados nas linguagens de programação para organizar todo o código fonte em conjunto de instruções para realizar ações/comportamentos específicos. Temos como exemplo gerarMenu() que possui um conjunto de instruções que gera e apresenta um menu quando invocada. Toda função deve te sua assinatura (linha de criação) com tipo de retorno especifico ou vazio (void) nome e parênteses para receber valores vindos de outras partes do código.
+
+
+METODOS DE ORDENAÇÃO DE VETOR/ARRAY
+
+A ordenação de vetor/array é aplicada constantemente para organizar dados em listas, conjuntos. Apesar das linguagens atuais possuírem funções específicas para ordenar os dados contidos em listas/conjuntos, um bom programador conhece como essas funções funcioanm graças aos métodos de ordenação. Primeiramente iremos utilizar o método Bubble Sort, pesquise sobre este método na linguagem C e debata com os colegas
